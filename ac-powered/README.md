@@ -1,4 +1,4 @@
-![Transient tester assembled](Transient tester r1B1 in 1550C enclosure.jpg)
+![Transient tester assembled](Transient tester r1B1 in HM-1590U enclosure)
 
 LTC [AN104](http://www.linear.com/docs/29876) Closed loop load transient tester (with on board power supply) 
 
