@@ -1,6 +1,6 @@
-![Transient tester assembled](Transient tester r1B1 in HM-1590U enclosure.jpg)
+![Transient tester assembled](Transient_tester_r1B1__HM-1590U_enclosure.jpg)
 
-LTC [AN104](http://www.linear.com/docs/29876) Closed loop load transient tester (with on board power supply) 
+LTC [AN104](https://www.analog.com/media/en/technical-documentation/application-notes/an104f.pdf) Closed loop load transient tester (with on board power supply) 
 
 **Please note that max. allowed D.U.T voltage is determined with switching transistor SOA.**
 
